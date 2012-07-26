@@ -1,5 +1,7 @@
 added
 a
+hellow
 new
 file
+insert a new line
 and another line
